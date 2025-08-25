@@ -22,5 +22,3 @@ It allows you to browse playlists, view albums, and play/pause songs with a resp
 - **JavaScript (Vanilla JS)** – Functionality & Music Controls  
 
 ---
-
-## 📂 Folder Structure
