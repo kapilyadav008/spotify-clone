@@ -134,7 +134,7 @@ async function displayAlbums() {
 
 async function main() {
     // Get the list of all the songs
-    await getSongs("songs/ncs")
+    await getSongs("songs/AP%20Dhillon")
     // playMusic(songs[0], true)
 
        // Clear bottom bar until user plays something
@@ -234,5 +234,6 @@ async function main() {
 
 
 }
+
 
 main() 
